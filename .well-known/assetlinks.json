@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "th.coffeesukjai.slipverify",
+    "sha256_cert_fingerprints": ["79:BC:88:28:3E:13:C4:B6:CA:68:06:C2:06:2A:56:62:6F:D1:87:B1:5D:EB:44:9C:A5:DD:8E:0F:8D:C7:06:18"]
+  }
+}]
